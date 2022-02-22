@@ -6,7 +6,7 @@ This repository fully reproduces [Space-Time Memory Networks](https://openaccess
 </div>
 
 
-## Performance on Davis17 val set&Weights
+## Performance on Davis17 val set&weights
 
 |  | backbone |  training stage | training dataset | J&F | J |  F  | weights |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
