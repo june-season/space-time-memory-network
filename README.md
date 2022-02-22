@@ -4,7 +4,7 @@ This repository fully reproduces [Space-Time Memory Networks](https://openaccess
 <!-- <img style="width:500px;height:250px" src="https://user-images.githubusercontent.com/19390123/115352733-495a3580-a1ea-11eb-9fed-483cac699682.png"  alt="image" align=center /> -->
 
 <div align=center>
-<img style="width:500px;height:250px" src="https://user-images.githubusercontent.com/19390123/115352733-495a3580-a1ea-11eb-9fed-483cac699682.png"/>
+<img style="width:800px;height:400px" src="https://user-images.githubusercontent.com/19390123/115352733-495a3580-a1ea-11eb-9fed-483cac699682.png"/>
 </div>
 
 
