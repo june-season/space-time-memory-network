@@ -11,9 +11,9 @@ This repository fully reproduces [Space-Time Memory Networks](https://openaccess
 |  | backbone |  training stage | training dataset | J&F | J |  F  | weights |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Ours| resnet-50 |  stage 1 | MS-COCO | 69.5 | 67.8 | 71.2 | [`link`](https://drive.google.com/file/d/1dHiKCOmTGhccG24UJuPYfLl8NcNqN6eC/view?usp=sharing) |
-| Origin | resnet-50 | stage 2 | MS-COCO -> Davis&Youtube-vos | 81.8 | 79.2 | 84.3 | [`link`](https://github.com/seoungwugoh/STM) |
-| Ours| resnet-50 | stage 2 | MS-COCO -> Davis&Youtube-vos | 82.0 | 79.7 | 84.4 | [`link`](https://drive.google.com/file/d/1M8NesOwct00QftL_bc-Nh_Qn7TgoZFX-/view?usp=sharing) |
-| Ours | resnest-101 | stage 2| MS-COCO -> Davis&Youtube-vos | 84.6 | 82.0 | 87.2 | [`link`](https://drive.google.com/file/d/1jQAfCXVSyu2b4DvHeFErCQwP6CKYeJ34/view?usp=sharing)|
+| Origin | resnet-50 | stage 2 | MS-COCO -> Davis & Youtube-vos | 81.8 | 79.2 | 84.3 | [`link`](https://github.com/seoungwugoh/STM) |
+| Ours| resnet-50 | stage 2 | MS-COCO -> Davis & Youtube-vos | 82.0 | 79.7 | 84.4 | [`link`](https://drive.google.com/file/d/1M8NesOwct00QftL_bc-Nh_Qn7TgoZFX-/view?usp=sharing) |
+| Ours | resnest-101 | stage 2| MS-COCO -> Davis & Youtube-vos | 84.6 | 82.0 | 87.2 | [`link`](https://drive.google.com/file/d/1jQAfCXVSyu2b4DvHeFErCQwP6CKYeJ34/view?usp=sharing)|
 
 
 ## Requirements
